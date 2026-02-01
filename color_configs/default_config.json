@@ -1,0 +1,24 @@
+{
+    "board_color_bgr": [
+        175,
+        220,
+        238
+    ],
+    "black_color_bgr": [
+        99,
+        85,
+        78
+    ],
+    "black_range_bgr_lower": [
+        59,
+        45,
+        38
+    ],
+    "black_range_bgr_upper": [
+        139,
+        125,
+        118
+    ],
+    "white_saturation_threshold": 30,
+    "white_value_threshold": 206
+}
